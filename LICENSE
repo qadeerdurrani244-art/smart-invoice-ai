@@ -1,0 +1,18 @@
+Smart Invoice AI - Proprietary License
+
+Copyright (c) 2026 [YOUR NAME]. All rights reserved.
+
+This source code is made available for viewing and for personal,
+non-commercial evaluation only. Without prior written permission from the
+copyright holder, you may not copy, modify, merge, publish, distribute,
+sublicense, sell, or use this software or any part of it in a commercial
+product or service.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR ITS USE.
+
+Third-party software (Streamlit, pandas, RapidOCR, Ollama, AI models, etc.)
+is covered by its own licenses.

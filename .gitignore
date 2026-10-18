@@ -1,0 +1,9 @@
+# Private data: never upload real invoices or the database
+data/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+.env
